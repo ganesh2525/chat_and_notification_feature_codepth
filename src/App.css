@@ -1,0 +1,71 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app-header {
+  text-align: center;
+  background-color: #50cf3c;
+  padding: 10px;
+  color: white;
+  width: 100%;
+}
+
+.app-container {
+  margin-top: 50px;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+}
+
+.group label {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.group input {
+  width: 200px;
+  height: 30px;
+  border: 2px solid #50cf3c;
+  border-radius: 6px;
+  padding-left: 5px;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px;
+}
+.group button {
+  width: 210px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  padding-left: 5px;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px;
+  background-color: #50cf3c;
+  color: white;
+  cursor: pointer;
+}
+
+.sign-out {
+  margin-top: 30px;
+}
+
+.headline{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #333;
+}

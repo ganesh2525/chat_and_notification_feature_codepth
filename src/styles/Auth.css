@@ -1,0 +1,22 @@
+.auth {
+  text-align: center;
+}
+
+.auth button {
+  margin-top: 20px;
+  background: #767976;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.headline{
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 18px;
+  color: #333;
+}

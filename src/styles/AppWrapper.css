@@ -1,0 +1,10 @@
+.sign-out-botton{
+  background: #767976;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
