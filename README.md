@@ -1,10 +1,11 @@
 # Chat Application
-This project is bootstrapped React.js and Firebase.
+This project is bootstrapped with React.js and Firebase.
 
 ![image](https://github.com/ganesh2525/chat_and_notification_feature_codepth/blob/main/screen.png)
 
 Install packages:
 ### `npm install`
+
 
 ## Available Scripts
 
