@@ -56,7 +56,7 @@ export const Chat = ({ group }) => {
     <div className="chat-app">
 
       <div className="header">
-        <h1>{group.toUpperCase()}</h1>
+        <h1>{group}</h1>
       </div>
 
       <div className="messages">
