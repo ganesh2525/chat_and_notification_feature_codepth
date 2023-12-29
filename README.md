@@ -23,8 +23,7 @@ In the project directory, you can run:
 
 ## Execution
 
-- Sign in with google account.
-- Join the group.
-- Now you can start to send messages.
-- Make sure that all the users should join the same group.
-- Group name is case sensitive.
+- To proceed, sign in using your Google account credentials.
+- Once signed in, join the specified group.
+- Ensure that all users join the same group, noting that the group name is case-sensitive.
+- Upon successfully joining the group, you can commence sending messages.
